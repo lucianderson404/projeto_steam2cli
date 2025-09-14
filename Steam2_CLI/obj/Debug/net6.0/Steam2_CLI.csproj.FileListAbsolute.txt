@@ -1,0 +1,15 @@
+/home/andsu/Documents/coding/C#/Steam2_CLI/bin/Debug/net6.0/Steam2_CLI
+/home/andsu/Documents/coding/C#/Steam2_CLI/bin/Debug/net6.0/Steam2_CLI.deps.json
+/home/andsu/Documents/coding/C#/Steam2_CLI/bin/Debug/net6.0/Steam2_CLI.runtimeconfig.json
+/home/andsu/Documents/coding/C#/Steam2_CLI/bin/Debug/net6.0/Steam2_CLI.dll
+/home/andsu/Documents/coding/C#/Steam2_CLI/bin/Debug/net6.0/Steam2_CLI.pdb
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.csproj.AssemblyReference.cache
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.AssemblyInfoInputs.cache
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.AssemblyInfo.cs
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.csproj.CoreCompileInputs.cache
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.dll
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/refint/Steam2_CLI.dll
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.pdb
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/Steam2_CLI.genruntimeconfig.cache
+/home/andsu/Documents/coding/C#/Steam2_CLI/obj/Debug/net6.0/ref/Steam2_CLI.dll
